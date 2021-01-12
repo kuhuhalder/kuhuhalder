@@ -5,7 +5,7 @@
 - Hobbies
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about 
+- :palm I’m currently learning about 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Art, 
 - 📫 Connect withLinkedIn
