@@ -1,12 +1,27 @@
-### Nice to meet you! I am Kuhu 👋
+# Hi, Nice to meet you! 👋
 
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I went to three high schools
-- Hobbies
+My name is Kuhu (she/her) and I am a current sophomore majoring in Computer Science with a Math minor at Rutgers University.
 
-- 🔭 I’m currently working on ...
-- :palm I’m currently learning about 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about Art, 
-- 📫 Connect withLinkedIn
+#### 🧑🏻‍💻 My Experience ...
+- Undergraduate Research Assistant @Aresty Research Center 
+- Information Technology Intern @Verizon (Summer 2020)
+- Research Assistant at WINLAB, Rutgers University (Summer 2019)
+
+#### 💬 My Skills ...
+##### Programming Languages: 
+- Python, Java, HTML, CSS, SQL
+
+#### 📚 I am currently learning about ...
+- Web Development in React and AngularJS
+- MERN stack
+- iOS App Development
+
+#### ❤️ Some of my hobbies are ...
+- Painting
+- Photography
+- Digital Drawing
+- Embroidery
+
+#### :mailbox: Ways to Reach Out ...
+Connect with me on <a href="https://www.linkedin.com/in/kuhuhalder/">LinkedIn</a> or send me an <a href="mailto:kuhuhalder2701@gmail.com">email</a>! 
 
