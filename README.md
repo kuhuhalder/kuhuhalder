@@ -1,4 +1,4 @@
-# Hi, Nice to meet you! 👋
+# Hi, Nice to meet you!
 
 My name is Kuhu (she/her) and I am a current sophomore majoring in Computer Science with a Math minor at Rutgers University.
 
