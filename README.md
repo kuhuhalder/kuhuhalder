@@ -6,8 +6,6 @@ My name is Kuhu (she/her) and I am a current seminor majoring in Computer Scienc
 
 <img align='center' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuhuhalder&layout=compact&theme=vue-dark">
 
-![](https://komarev.com/ghpvc/?username=kuhuhalder&color=33FFBB)
-
 ###  🧑🏻‍💻 My Experience
 - iLab Assistant at the CAVE (Collaborative Academic Versatile Environment) + Laboratory of Computer Science Research (LCSR) (Sept 2022 -  
 - Learning Assistant for Introduction to Computer Science @ Rutgers CS Department + Learning Centers (Sept 2021 - Present)
@@ -36,3 +34,4 @@ My name is Kuhu (she/her) and I am a current seminor majoring in Computer Scienc
 ###  :mailbox: Ways to Reach Out
 Connect with me on <a href="https://www.linkedin.com/in/kuhuhalder/">LinkedIn</a> or send me an <a href="mailto:kuhuhalder2701@gmail.com">email</a>! 
 
+![](https://komarev.com/ghpvc/?username=kuhuhalder&color=33FFBB)
