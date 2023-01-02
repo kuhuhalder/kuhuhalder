@@ -4,6 +4,10 @@ My name is Kuhu (she/her) and I am a current seminor majoring in Computer Scienc
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuhuhalder&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
 
+<img align='center' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuhuhalder&layout=compact&theme=vue-dark">
+
+![](https://komarev.com/ghpvc/?username=kuhuhalder&color=33FFBB)
+
 ###  🧑🏻‍💻 My Experience
 - iLab Assistant at the CAVE (Collaborative Academic Versatile Environment) + Laboratory of Computer Science Research (LCSR) (Sept 2022 -  
 - Learning Assistant for Introduction to Computer Science @ Rutgers CS Department + Learning Centers (Sept 2021 - Present)
