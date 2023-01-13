@@ -1,6 +1,6 @@
 # Hi, nice to meet you!
 
-My name is Kuhu (she/her) and I am a current seminor majoring in Computer Science with a Mathematics minor at Rutgers University.
+My name is Kuhu (she/her) and I am a current senior majoring in Computer Science with a Mathematics minor at Rutgers University.
 
 ---
 
